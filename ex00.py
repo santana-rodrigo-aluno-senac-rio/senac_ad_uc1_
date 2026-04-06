@@ -10,6 +10,14 @@
 # inteiro (int)
 # git init
 # git add .
+# git init
+# git add . (git add nome.py)
+# git commit -m "primeiro commit"
+# git status
+# git log (histórico dos commits)
+# git branch
+# git branch -b nome
+# remote (git hub) 
 
 
 
