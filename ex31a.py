@@ -7,3 +7,4 @@ for i in range(0,5):
       input(f"o valor {x} é par")
    else:
       input(f"o valor {x} é impar")
+#

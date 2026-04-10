@@ -9,3 +9,4 @@ for i in range(10):
 
 print("---")
 print(f"Os números que você digitou foram: {numeros}")
+#
