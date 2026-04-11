@@ -44,6 +44,7 @@ print(f"Seu salário atual é: R$ {salario}; O valor a pagar é: {irrf}")
 print(f"Imposto pago:{ir}%; Salário final: R$ {salariofinal}")
 
 print("07042026")
+#
 
 
 

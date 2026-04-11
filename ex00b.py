@@ -14,3 +14,4 @@ print("O valor é R$", v)
 print("Desconto: R$", d)
 print("Valor final: R$", vd)
 print("Seu desconto é de:", p, "%")
+#
