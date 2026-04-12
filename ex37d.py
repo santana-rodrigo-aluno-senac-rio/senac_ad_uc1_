@@ -1,6 +1,7 @@
 # while
-x = 1
+senha = ""
 
-while x <= 3:
-    print("Olá")
-    x += 1
+while senha != "1234":
+    senha = input("Digite a senha: ")
+
+print("Acesso liberado!")

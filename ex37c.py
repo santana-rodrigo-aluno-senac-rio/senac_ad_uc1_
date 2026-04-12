@@ -1,7 +1,6 @@
 # while
-senha = ""
+x = 1
 
-while senha != "1234":
-    senha = input("Digite a senha: ")
-
-print("Acesso liberado!")
+while x <= 3:
+    print("Olá")
+    x += 1
