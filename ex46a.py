@@ -2,9 +2,7 @@
 
 # Função para verificar se o número é par ou ímpar
 def paridade(numero):
-    if numero == 0:
-        return "O número 0 não é considerado par nem ímpar."
-    elif numero % 2 == 0:
+    if numero % 2 == 0:
         return "O número é par."
     else:
         return "O número é ímpar."
