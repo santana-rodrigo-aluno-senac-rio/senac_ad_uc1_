@@ -13,3 +13,13 @@ valor = int(input("Digite um número para verificar se é par ou ímpar: "))
 # Chamada da função e exibição do resultado
 resultado = paridade(valor)
 print(resultado)
+
+# def par (a):
+#     if a % 2 == 0:
+#         r = "par."
+#     else:
+#         r = "impar."
+#v = int(input("Digite um valor: "))
+#y=par (v)
+#print(y)
+#print(f"O número {v} é {par(v)}")
