@@ -28,3 +28,13 @@ def jogo_adivinhacao():
 
 # Chamada do jogo
 jogo_adivinhacao()
+
+#Exemplo de execução:
+#
+#Bem-vindo ao jogo de adivinhação!
+#Digite um número entre 1 e 100: 50
+#Muito baixo! Tente novamente.
+#Digite um número entre 1 e 100: 75
+#Muito alto! Tente novamente.
+#Digite um número entre 1 e 100: 63
+#Parabéns! Você acertou o número 63 em 3 tentativas.
