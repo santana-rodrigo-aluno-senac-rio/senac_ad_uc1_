@@ -13,4 +13,4 @@
 
 #SELECT * FROM aluno WHERE nome = 'Roberto';
 
-print(sql)
+print("sql")
