@@ -9,3 +9,4 @@ g=input("Digite o gênero (m ou f): ")
 if i >= 18 and g == 'm':
     print("Apto ao alistamento militar.")
 else:    print("Não apto ao alistamento militar.")
+
