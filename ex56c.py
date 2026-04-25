@@ -4,6 +4,7 @@ Mostra:
 1) A soma passo a passo
 2) A soma em uma única linha
 3) O resultado final formatado
+
 """
 
 inicio = int(input("Digite o início: "))
